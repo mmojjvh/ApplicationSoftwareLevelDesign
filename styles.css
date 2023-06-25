@@ -40,7 +40,7 @@ html {
     margin: 30px 8px;
     padding: 15px;
     border-radius: 5px;
-    background:  #79E0EE;
+    background: #98EECC;
   }
   
   @media (max-width: 460px) {
@@ -57,7 +57,7 @@ html {
   }
   
   #img-div {
-    background:#98EECC;
+    background:linear-gradient(62deg, #1c7913 0%, #a1a1e2 100%);;
     padding: 10px;
     margin: 0;
   }
